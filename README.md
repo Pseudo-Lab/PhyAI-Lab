@@ -46,88 +46,48 @@ Physical AI를 더 똑똑하고, 더 강력하며, 더 실용적으로 만들기
     - 실험 결과 및 인사이트 정리 → 추후 연구주제 선정         |
 
 
-## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
-
-
-## 🛠️ 우리의 개발 문화 (Our Development Culture)
-**우리의 개발 문화**  
-```python
-class CollaborationFramework:
-    def __init__(self):
-        self.tools = {
-            'communication': 'Discord',
-            'version_control': 'GitHub Projects',
-            'ci/cd': 'GitHub Actions',
-            'docs': 'Github Wiki'
-        }
-    
-    def workflow(self):
-        return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
-```
-
-
-## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
-
-
 ## 💻 주차별 활동 (Activity History)
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+| 날짜 | 선정 논문 | 발표자 | 발표자료
+| -------- | -------- | ---- |------|
+| 2025/09/09 | OT       |      |        |
+| 2025/09/16 |  [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/)|김경준 |  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/09/23 |  Magical Week | - | -
+| 2025/09/30 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/10/7 |  추석 | - |-
+| 2025/10/14 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/10/21 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/10/28 |  Magical Week |- | -
+| 2025/11/04 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/11/11 | 미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/11/18 | 미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/11/25 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/12/02 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/12/09 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/12/16 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+| 2025/12/23 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
+
+## 📚논문 리스트
+- [$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/blog/pi0)
+- [Gemini Robotics: Bringing AI into the Physical World](https://arxiv.org/abs/2503.20020)
+- [FLARE: Robot Learning with Implicit World Modeling](https://research.nvidia.com/labs/gear/flare/)
+- [Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning](https://diffusion-vla.github.io/)
+- [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://mimicgen.github.io/) 
+- [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734)
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)
+- [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/)
+- [Say Can: Grounding Language in Robotic Affordances](https://say-can.github.io/)
+- [OpenVLA:An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
+- [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)
+- [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917)
+- [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://cot-vla.github.io/)
+
+### Survey Paper 
+- Survey paper를 참고하여 발표논문을 선정하셔도 좋습니다.
+- [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)
+- [Vision Language Action Models in Robotic Manipulation: A Systematic Review](https://arxiv.org/abs/2507.10672)
 
 
-
-## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
-
-
-## 🌱 참여 안내 (How to Engage)
-- 빌더로 참여 — 프로젝트 기획·운영 주도
-- 러너로 참여 — 연구·개발·테스트 등 실행
-- 청강 참여 — 공개 세션 참여 가능
-
-❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
-❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
-
-**누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
-2. Magical Week 중 행사에 참가
-3. Pseudo Lab 행사에서 만나기
-
-## Acknowledgement 🙏
-
-이 프로젝트는 가짜연구소 Open Academy로 진행됩니다.
-여러분의 참여와 기여가 ‘우연한 혁명(Serendipity Revolution)’을 가능하게 합니다. 모두에게 깊은 감사를 전합니다.
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
@@ -143,10 +103,3 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-🚩 추가 팁 (Usage Tips)
-- 각 항목 내 {{ }} 표시된 부분을 프로젝트에 맞게 꼭 수정하세요.
-- 불필요한 프로젝트 유형 예시는 제거하거나 교체해 명확하게 하세요.
-- 로드맵과 활동내역 부분에 Mermaid 다이어그램 등을 이용해 시각적으로 표현하는 것을 추천합니다.
-- 체크박스(✅)와 표를 적절히 활용하면 진행 상황 한눈에 파악이 쉽습니다.
-- ‘빌더’와 ‘러너’의 역할 분담과 상호 피드백 문화 강화에 README 내 문장으로 강조를 절대 잊지 마세요.
-- README가 단순 안내서 이상으로 공동체 철학과 가치를 담는 협업 선언문임을 인지하고, 누구나 읽고 이해하기 쉽도록 간결 명료하게 작성하세요.
