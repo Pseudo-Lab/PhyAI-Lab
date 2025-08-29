@@ -1,9 +1,9 @@
 # 10th-template
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> Physical AI Lab </h1>
 
 <div align="center">
-<a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
+<a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S11-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
 <a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
@@ -17,30 +17,28 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+![img]('/home/kyongjun/PhyAI-Lab/manipulation2.gif')
 
-🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
-“함께 만드는 우연한 혁명(Serendipity Revolution)”
-진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
+🚀 Physical AI Lab에 오신 것을 환영합니다!\
+저희는 Imitation Learning, Vision-Language-Action(VLA), Robot Reasoning/Planning 등 Physical AI의 최신 연구 흐름을 탐구합니다.
+논문 리뷰와 토론을 통해 트렌드를 이해하고, 로봇과 시뮬레이터(SO-ARM 101/Isaac Sim)를 활용한 실험을 통해 한계점과 개선 방향을 분석합니다.
+
+우리의 목표는 로봇이 실생활에 도입될 수 있는 길을 여는 것입니다.
+Physical AI를 더 똑똑하고, 더 강력하며, 더 실용적으로 만들기 위한 여정에 함께하세요!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
-- 논문 리뷰 프로젝트 — 최신 AI 논문 분석, 토론, 실험 재현
-- 책 기반 스터디 — 머신러닝/데이터사이언스 주요 서적 공동 학습 및 적용
-- 오픈소스 프로젝트 — AI·데이터 처리 관련 라이브러리 개발 및 개선
-- 컨퍼런스 논문 투고 — 최신 연구 수행 및 국제 학회 제출 준비
-
-
-## 🧑 역동적인 팀 소개 (Dynamic Team)
-
-| 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+- **논문 리뷰 목표**
+    - 매주 한 편의 논문을 리뷰하며 Physical AI의 발전방향에 대해 이해
+    - Open question에 대해 토론하며 비판적으로 논문을 해석하고 더욱 깊게 이해하는 능력 함양
+- **프로젝트 목표**
+    - 최신 연구들의 한계점을 파악하고 이를 개선하기 위한 인사이트 도출
+    - 예시
+        - 모델의 성능을 어떻게 평가할 수 있으며 적절한 데이터셋을 어떻게 curation 할 수 있을까?
+        - VLA의 장기 메모리 부족 문제를 어떻게 해결할 수 있을까?
+        - Teleoperation만으로는 LLM처럼 internet-scale의 데이터를 수집하기 어려움을 어떻게 해결할 것인가?
+- **최종 성과물**
+    - 논문 리뷰 아카이브
+    - 실험 결과 및 인사이트 정리 → 추후 연구주제 선정         |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
