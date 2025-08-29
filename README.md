@@ -5,18 +5,23 @@
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S11-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/PhyAI-Lab" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/PhyAI-Lab" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/PhyAI-Lab" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/PhyAI-Lab" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/PhyAI-Lab?color=2b9348"></a>
 </div>
 <br>
+
+
 
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-![img]('manipulation2.gif')
+<p align="center">
+  <img src="manipulation2.gif" alt="Demo" width="600"/>
+</p>
+
 
 🚀 Physical AI Lab에 오신 것을 환영합니다!\
 저희는 Imitation Learning, Vision-Language-Action(VLA), Robot Reasoning/Planning 등 Physical AI의 최신 연구 흐름을 탐구합니다.
@@ -128,8 +133,8 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+<a href="https://github.com/Pseudo-Lab/PhyAI-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/PhyAI-Lab" />
 </a>
 <br><br>
 
