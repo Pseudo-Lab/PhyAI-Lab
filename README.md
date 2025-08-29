@@ -68,7 +68,9 @@ Physical AI를 더 똑똑하고, 더 강력하며, 더 실용적으로 만들기
 | 2025/12/23 |  미정 | 미정 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]()
 
 ## 📚논문 리스트
-- [$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/blog/pi0)
+- [π₀: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/blog/pi0)
+
+
 - [Gemini Robotics: Bringing AI into the Physical World](https://arxiv.org/abs/2503.20020)
 - [FLARE: Robot Learning with Implicit World Modeling](https://research.nvidia.com/labs/gear/flare/)
 - [Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning](https://diffusion-vla.github.io/)
