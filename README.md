@@ -23,9 +23,9 @@
 </p>
 
 
-🚀 Physical AI Lab에 오신 것을 환영합니다!\
-저희는 Imitation Learning, Vision-Language-Action(VLA), Robot Reasoning/Planning 등 Physical AI의 최신 연구 흐름을 탐구합니다.
-논문 리뷰와 토론을 통해 트렌드를 이해하고, 로봇과 시뮬레이터(SO-ARM 101/Isaac Sim)를 활용한 실험을 통해 한계점과 개선 방향을 분석합니다.
+🚀 **Physical AI Lab에 오신 것을 환영합니다!**\
+저희는 ```Imitation Learning, Vision-Language-Action(VLA), Robot Reasoning/Planning``` 등 Physical AI의 최신 연구 흐름을 탐구합니다.
+논문 리뷰와 토론을 통해 트렌드를 이해하고, ```로봇과 시뮬레이터(SO-ARM 101/Isaac Sim)```를 활용한 실험을 통해 한계점과 개선 방향을 분석합니다.
 
 우리의 목표는 로봇이 실생활에 도입될 수 있는 길을 여는 것입니다.
 Physical AI를 더 똑똑하고, 더 강력하며, 더 실용적으로 만들기 위한 여정에 함께하세요!
